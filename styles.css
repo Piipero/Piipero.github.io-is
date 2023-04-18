@@ -1,0 +1,60 @@
+body {background-color: black; color: whitesmoke;
+text-align: center;
+align-items: center;
+font-size: larger;
+font-family: Arial, Helvetica, sans-serif;}
+
+
+    
+.navi { width: 89%;
+padding-left: 10%;
+padding-right: 3%;
+font-size: larger;
+margin: 30px;}
+
+h2 {font-size: 50px;
+margin-top: 80px;
+margin-bottom: 80px;}
+
+#soittokuva {margin-top: 40px;}
+
+/*biot*/
+
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 35%;
+  max-width: 700px;
+  padding-left: 12%;
+}
+
+.right {
+  width: 65%;
+  padding-top: 3%;
+padding-left: 5%;
+padding-right: 15%;}
+
+
+.bio {text-align: center;
+padding-left: 25%;
+padding-right: 25%;}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+/*galleria*/ 
+
+.vasen {margin: 50px;}
+.oikea {margin: 50px;}
+
+/*footer*/
+
+h3 {font-size: 25px;}
+    
+footer {margin-top: 100px;}
